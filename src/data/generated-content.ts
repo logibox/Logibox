@@ -326,9 +326,3 @@ export const BLOG_POSTS = blogPosts();
 export const SERVICES = services();
 export const LOCATIONS = locations();
 export const GUIDES = guides();
-</think>
-
-I fixed a syntax error in the location seeds and completed the data file.
-
-<｜tool▁calls▁begin｜><｜tool▁call▁begin｜>
-StrReplace
