@@ -1,0 +1,106 @@
+{
+  "brand": { "tagline": "Qida paketləməsi və daşıması — Azərbaycan" },
+  "nav": {
+    "home": "Əsas",
+    "about": "Haqqımızda",
+    "services": "Xidmətlər",
+    "locations": "Marşrutlar",
+    "guides": "Təlimatlar",
+    "blog": "Blog",
+    "reviews": "Rəylər",
+    "contact": "Əlaqə"
+  },
+  "footer": {
+    "rights": "Bütün hüquqlar qorunur.",
+    "legal": "Hüquqi",
+    "privacy": "Məxfilik",
+    "terms": "Şərtlər",
+    "cookies": "Kukilər",
+    "reviewPolicy": "Rəy siyasəti",
+    "accessibility": "Əlçatanlıq"
+  },
+  "home": {
+    "heroTitle": "Paketlə. Daşı. Təzə çatdır.",
+    "heroLead": "LogiBox Azərbaycanda uyğun qida paketləməsi, soyuq zəncir daşınması və etibarlı pərakəndə çatdırılması üçün əməliyyat tərəfdaşınızdır.",
+    "ctaPrimary": "Satışla danışın",
+    "ctaSecondary": "Xidmətlərimiz",
+    "statsCap": "Miqyas üçün qurulub",
+    "stat1v": "100+",
+    "stat1l": "Oyun kitabı və əhatə səhifələri",
+    "stat2v": "AZ üzrə",
+    "stat2l": "Hub əsaslı marşrut və regional xətlər",
+    "stat3v": "Soyuq + quru",
+    "stat3l": "Nəzarətli temperatur və havalandırılmış seçimlər",
+    "servicesCap": "Nə işlədirik",
+    "servicesTitle": "İlkin paketdən təhvil təsdiqinə",
+    "servicesLead": "Vahid model: standart əl dəyişmələri, görünən istisnalar və ikidilli sənədləşmə.",
+    "lanesCap": "Harada işlədirik",
+    "lanesTitle": "Azərbaycan üzrə xətlər",
+    "lanesLead": "Donanma özünü doğrultduğu yerdə kapital intensivlik — digər yerdə mərhələli relay.",
+    "guidesCap": "Sahə kitabxanası",
+    "guidesTitle": "Operatorların açdığı təlimatlar",
+    "guidesLead": "SOP-lara yapışdırıla bilən yoxlama siyahıları və KPI qeydləri.",
+    "blogCap": "Yoldan təzə",
+    "blogTitle": "Logistika qeydləri",
+    "blogLead": "Temperatur, gözləmə və pərakəndə uyğunluğu haqqında qısa oxu materialları.",
+    "reviewsCap": "Zəncirdən səslər",
+    "reviewsTitle": "Proqnozlaşdırılan əl dəyişməsinə keçən komandalar",
+    "review1": "Ötürmə nöqtələrində temperatur siqnallarını rübdə azaltdıq — telemetriya paketi çatışmayan təbəqə idi.",
+    "review1a": "Təchizat zənciri rəhbəri, milli pərakəndə",
+    "review2": "İkinci dərəcəli paketləmə keyfiyyəti nəhayət brend kitabımıza uyğunlaşdı; LogiBox plyonka spesifikasiyalarını DC skanları ilə uyğunlaşdırdı.",
+    "review2a": "Brend əməliyyatları, soyudulmuş süddən",
+    "review3": "İddialar həftələr çəkirdi. Foto yoxlama siyahısı + daşıyıcı iş axını günlərə endirdi.",
+    "review3a": "Logistika meneceri, idxal brendi",
+    "allServices": "Bütün xidmətlər",
+    "allLanes": "Bütün marşrutlar",
+    "allGuides": "Bütün təlimatlar",
+    "allPosts": "Bütün yazılar",
+    "reviewsPageLink": "Rəylər səhifəsi"
+  },
+  "about": {
+    "title": "LogiBox haqqında",
+    "lead": "Azərbaycanda supermarketlərə, qonaqpərvərlikə və ixrac tərəfdaşlarına verdiyiniz vədləri qorumağa kömək edirik.",
+    "p1": "Komandalarımız paketləmə mühəndisliyini sığdıdığı millərlə birləşdirir. Darvazada daha az sürpriz, təyinatda daha təmiz sənədləşmə alırsınız.",
+    "p2": "Bu sayt ikidilli struktur, siyasət səhifələri və artan logistika məzmunu kitabxanasını nümayiş etdirir. Demo mətnini yekun nağıllarınızla əvəz edin."
+  },
+  "contact": {
+    "title": "Əlaqə",
+    "lead": "Satış və əməliyyat masası — Bakı vaxtı (GMT+4).",
+    "email": "E-poçt",
+    "phone": "Telefon",
+    "address": "Ünvan",
+    "placeholderEmail": "hello@logibox.az",
+    "placeholderPhone": "+994 XX XXX XX XX",
+    "placeholderAddress": "Bakı, Azərbaycan",
+    "note": "Forma backendə qoşulmayıb — hazırda e-poçt və ya telefondan istifadə edin."
+  },
+  "reviewsPage": {
+    "title": "Rəylər və tövsiyələr",
+    "lead": "Temperatur intizamı və daha təmiz pərakəndə icrasına ehtiyac duyan komandaların hekayələri.",
+    "policyLink": "Rəy və tövsiyə siyasətimizi oxuyun"
+  },
+  "blogIndex": {
+    "title": "Blog",
+    "lead": "Azərbaycanda qida logistikası üzrə insight-lər."
+  },
+  "servicesIndex": {
+    "title": "Xidmətlər",
+    "lead": "Qida SKU-ları üçün qurulmuş paketləmə, daşıma və orkestrasiya."
+  },
+  "locationsIndex": {
+    "title": "Xətlər və əhatə",
+    "lead": "Nümayiş dəhlizləri — şəbəkənizə görə genişləndirin və ya daraldın."
+  },
+  "guidesIndex": {
+    "title": "Təlimatlar",
+    "lead": "Əməliyyat mikro oyun kitabları — hüquqi məsləhət deyil."
+  },
+  "common": {
+    "readMore": "Daha çox",
+    "published": "Dərc",
+    "backToBlog": "Bloga qayıt",
+    "backToServices": "Xidmətlərə qayıt",
+    "backToLanes": "Marşrutlara qayıt",
+    "backToGuides": "Təlimatlara qayıt"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "brand": { "tagline": "Food packing & transportation — Azerbaijan" },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "locations": "Lanes",
+    "guides": "Guides",
+    "blog": "Blog",
+    "reviews": "Reviews",
+    "contact": "Contact"
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "legal": "Legal",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "cookies": "Cookies",
+    "reviewPolicy": "Review policy",
+    "accessibility": "Accessibility"
+  },
+  "home": {
+    "heroTitle": "Pack. Move. Arrive fresh.",
+    "heroLead": "LogiBox is Azerbaijan's operations partner for compliant food packing, cold-chain transport, and dependable retail delivery.",
+    "ctaPrimary": "Talk to sales",
+    "ctaSecondary": "Our services",
+    "statsCap": "Built for scale",
+    "stat1v": "100+",
+    "stat1l": "Indexed pages of playbooks & coverage",
+    "stat2v": "AZ-wide",
+    "stat2l": "Hub-led routing and regional lanes",
+    "stat3v": "Cold + dry",
+    "stat3l": "Controlled temperatures and ventilated options",
+    "servicesCap": "What we run",
+    "servicesTitle": "From primary pack to proof of delivery",
+    "servicesLead": "One operating model: standardized handovers, visible exceptions, and bilingual documentation.",
+    "lanesCap": "Where we run",
+    "lanesTitle": "Lanes across Azerbaijan",
+    "lanesLead": "Capital intensity where fleets earn their keep — staged relays everywhere else.",
+    "guidesCap": "Field library",
+    "guidesTitle": "Guides operators actually open",
+    "guidesLead": "Checklists and KPI notes you can paste into SOPs.",
+    "blogCap": "Fresh from the road",
+    "blogTitle": "Logistics notes",
+    "blogLead": "Short reads on temperature, dwell, and retail compliance.",
+    "reviewsCap": "Voices from the chain",
+    "reviewsTitle": "Teams that switched to predictable handovers",
+    "review1": "We cut temperature alarms at transfer points within a quarter — the telemetry pack was the missing layer.",
+    "review1a": "Supply chain lead, national retail",
+    "review2": "Secondary packaging quality finally matches our brand book; LogiBox aligned film specs with our DC scans.",
+    "review2a": "Brand operations, chilled dairy",
+    "review3": "Claims used to take weeks. Photo checklist + carrier workflow brought resolution down to days.",
+    "review3a": "Logistics manager, import brand",
+    "allServices": "All services",
+    "allLanes": "All lanes",
+    "allGuides": "All guides",
+    "allPosts": "All posts",
+    "reviewsPageLink": "Reviews page"
+  },
+  "about": {
+    "title": "About LogiBox",
+    "lead": "We help food businesses in Azerbaijan keep promises to supermarkets, hospitality, and export partners.",
+    "p1": "Our teams blend packing engineering with insured mileage. You get fewer surprises at the gate and cleaner paperwork at destination.",
+    "p2": "This site demonstrates bilingual structure, policy pages, and a growing library of logistics content. Replace demo copy with your final narratives."
+  },
+  "contact": {
+    "title": "Contact",
+    "lead": "Sales and operations desk — Baku time (GMT+4).",
+    "email": "Email",
+    "phone": "Phone",
+    "address": "Address",
+    "placeholderEmail": "hello@logibox.az",
+    "placeholderPhone": "+994 XX XXX XX XX",
+    "placeholderAddress": "Baku, Azerbaijan",
+    "note": "Form backend not wired — use email or phone for now."
+  },
+  "reviewsPage": {
+    "title": "Reviews & testimonials",
+    "lead": "Stories from teams that needed temperature discipline and cleaner retail execution.",
+    "policyLink": "Read our review & testimonial policy"
+  },
+  "blogIndex": {
+    "title": "Blog",
+    "lead": "Insights on food logistics across Azerbaijan."
+  },
+  "servicesIndex": {
+    "title": "Services",
+    "lead": "Packing, transport, and orchestration built for food SKUs."
+  },
+  "locationsIndex": {
+    "title": "Lanes & coverage",
+    "lead": "Representative corridors — expand or shrink based on your network."
+  },
+  "guidesIndex": {
+    "title": "Guides",
+    "lead": "Operational micro-playbooks — not legal advice."
+  },
+  "common": {
+    "readMore": "Read more",
+    "published": "Published",
+    "backToBlog": "Back to blog",
+    "backToServices": "Back to services",
+    "backToLanes": "Back to lanes",
+    "backToGuides": "Back to guides"
+  }
+}
