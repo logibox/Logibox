@@ -1,5 +1,5 @@
 {
-  "brand": { "tagline": "Food packing & transportation — Azerbaijan" },
+  "brand": { "tagline": "Food packing & transportation" },
   "nav": {
     "home": "Home",
     "about": "About",
@@ -69,7 +69,7 @@
     "email": "Email",
     "phone": "Phone",
     "address": "Address",
-    "placeholderEmail": "hello@logibox.az",
+    "placeholderEmail": "logibox@atomicmail.io",
     "placeholderPhone": "+994 XX XXX XX XX",
     "placeholderAddress": "Baku, Azerbaijan",
     "note": "Form backend not wired — use email or phone for now."

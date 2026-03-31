@@ -13,7 +13,14 @@ export default async function ContactPage() {
           <dt className="text-xs font-bold uppercase tracking-wide text-logi-orange">
             {t("email")}
           </dt>
-          <dd className="mt-1 font-medium">{t("placeholderEmail")}</dd>
+          <dd className="mt-1 font-medium">
+            <a
+              href={`mailto:${t("placeholderEmail")}`}
+              className="text-logi-blue underline-offset-2 hover:text-logi-orange hover:underline"
+            >
+              {t("placeholderEmail")}
+            </a>
+          </dd>
         </div>
         <div>
           <dt className="text-xs font-bold uppercase tracking-wide text-logi-orange">

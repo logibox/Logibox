@@ -1,5 +1,5 @@
 {
-  "brand": { "tagline": "Qida paketləməsi və daşıması — Azərbaycan" },
+  "brand": { "tagline": "Qida paketləməsi və daşıması" },
   "nav": {
     "home": "Əsas",
     "about": "Haqqımızda",
@@ -69,7 +69,7 @@
     "email": "E-poçt",
     "phone": "Telefon",
     "address": "Ünvan",
-    "placeholderEmail": "hello@logibox.az",
+    "placeholderEmail": "logibox@atomicmail.io",
     "placeholderPhone": "+994 XX XXX XX XX",
     "placeholderAddress": "Bakı, Azərbaycan",
     "note": "Forma backendə qoşulmayıb — hazırda e-poçt və ya telefondan istifadə edin."

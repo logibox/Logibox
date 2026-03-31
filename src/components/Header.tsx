@@ -19,16 +19,16 @@ export async function Header() {
 
   return (
     <header className="sticky top-0 z-50 border-b border-border bg-card/90 backdrop-blur-md">
-      <div className="mx-auto flex max-w-6xl items-center justify-between gap-4 px-4 py-3 sm:px-6">
+      <div className="mx-auto flex max-w-6xl items-center justify-between gap-4 px-4 py-4 sm:px-6 sm:py-5">
         <Link href="/" className="flex items-center gap-3 min-w-0">
           <Image
             src="/brand/logibox-logo.png"
             alt="LogiBox"
-            width={220}
-            height={56}
-            className="h-10 w-auto max-w-[min(220px,55vw)] shrink-0 object-contain object-left"
+            width={400}
+            height={100}
+            className="h-14 w-auto max-w-[min(400px,78vw)] sm:h-16 sm:max-w-[min(440px,72vw)] lg:h-[4.5rem] lg:max-w-[min(480px,42vw)] shrink-0 object-contain object-left"
             priority
-            sizes="(max-width: 640px) 55vw, 220px"
+            sizes="(max-width: 640px) 78vw, (max-width: 1024px) 400px, 480px"
           />
           <span className="hidden text-xs font-medium text-muted sm:inline truncate max-w-[12rem] lg:max-w-none">
             {tb("tagline")}
