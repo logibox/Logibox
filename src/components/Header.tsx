@@ -24,10 +24,11 @@ export async function Header() {
           <Image
             src="/brand/logibox-logo.png"
             alt="LogiBox"
-            width={140}
-            height={40}
-            className="h-9 w-auto shrink-0"
+            width={220}
+            height={56}
+            className="h-10 w-auto max-w-[min(220px,55vw)] shrink-0 object-contain object-left"
             priority
+            sizes="(max-width: 640px) 55vw, 220px"
           />
           <span className="hidden text-xs font-medium text-muted sm:inline truncate max-w-[12rem] lg:max-w-none">
             {tb("tagline")}
