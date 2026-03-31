@@ -1,8 +1,11 @@
 # Netlify — Next.js (App Router) + middleware / i18n
 # https://docs.netlify.com/integrations/frameworks/next-js/
 
+# Publish must not equal the site base directory (repo root). If Netlify UI sets
+# publish to ".", clear it or rely on this file — otherwise @netlify/plugin-nextjs fails.
 [build]
   command = "npm run build"
+  publish = ".next"
 
 [build.environment]
   NODE_VERSION = "20"
