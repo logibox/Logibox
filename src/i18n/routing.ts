@@ -1,6 +1,6 @@
 import { defineRouting } from "next-intl/routing";
 
-/** Keep `locales`, `defaultLocale`, and `localePrefix` in sync with `middleware.ts` in the project root. */
+/** Shared by `middleware.ts`, `[locale]` routes, and `src/lib/navigation.ts`. */
 export const routing = defineRouting({
   locales: ["en", "az"],
   defaultLocale: "en",

@@ -1,11 +1,11 @@
 import createMiddleware from "next-intl/middleware";
+import { routing } from "./src/i18n/routing";
 
-export default createMiddleware({
-  locales: ["en", "az"],
-  defaultLocale: "en",
-  localePrefix: "always",
-});
+export default createMiddleware(routing);
 
 export const config = {
-  matcher: ["/", "/(en|az)/:path*"],
+  matcher: [
+    // All routes except API, Next internals, Vercel, and static files (dots in path)
+    "/((?!api|_next|_vercel|.*\\..*).*)",
+  ],
 };

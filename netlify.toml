@@ -12,3 +12,9 @@
 
 [[plugins]]
   package = "@netlify/plugin-nextjs"
+
+# CDN fallback if the first request to `/` misses i18n middleware
+[[redirects]]
+  from = "/"
+  to = "/en"
+  status = 302
